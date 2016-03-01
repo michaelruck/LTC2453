@@ -1,0 +1,6 @@
+LTC2453	KEYWORD1
+read	KEYWORD2
+readVoltage	KEYWORD2
+voltage	KEYWORD2
+Vref	KEYWORD2
+reading	KEYWORD2
